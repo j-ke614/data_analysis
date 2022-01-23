@@ -28,6 +28,6 @@ I also used the time and numpy libraries.}
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* I need to fic how the query function works.
+* I need to fix how the query function works.
 * I need to clean up how the user inputs are handled.
 * I need to fix how the query function presents the data.
