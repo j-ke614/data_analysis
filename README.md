@@ -1,8 +1,8 @@
 # Overview
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
+{I am analysing the top 1000 grossing movies of all time This dataset was taken from https://www.kaggle.com/sanjeetsinghnaik/top-1000-highest-grossing-movies.}
 
-{Describe your purpose for writing this software to analyze the data.}
+{My Purpose for writing this simple program was to try and learn the basics of pandas.}
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
@@ -15,19 +15,20 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{I used Microsoft Visual Studio Code in the python language with the pandas module.
 
-{Describe the programming language that you used and any libraries.}
+I also used the time and numpy libraries.}
+
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Stack Overflow](http://stackoverflow.com)
+* [Pandas](http://pandas.pydata.org/)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I need to fic how the query function works.
+* I need to clean up how the user inputs are handled.
+* I need to fix how the query function presents the data.
